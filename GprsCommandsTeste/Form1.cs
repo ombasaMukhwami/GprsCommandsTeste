@@ -240,7 +240,9 @@ namespace GprsCommandsTeste
                             // Read it into a StringBuilder
                             sbSource = new StringBuilder(reader.ReadToEnd());
                             var _device = JsonConvert.DeserializeObject<List<Device>>(sbSource.ToString());
-                            device = _device.FirstOrDefault();
+                            device = _device.Where(d=>d.status.Equals("online", StringComparison.InvariantCultureIgnoreCase)).FirstOrDefault();
+                            if (device == null)
+                                device = _device.FirstOrDefault();
                             //convert to an xml stream
                             reader.Close();
                             reader.Dispose();

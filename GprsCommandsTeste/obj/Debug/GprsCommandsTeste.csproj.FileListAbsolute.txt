@@ -23,3 +23,17 @@ C:\Users\HP\Desktop\Development\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\Gp
 C:\Users\HP\Desktop\Development\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\GprsCommandsTeste.csproj.CopyComplete
 C:\Users\HP\Desktop\Development\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\GprsCommandsTeste.exe
 C:\Users\HP\Desktop\Development\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\GprsCommandsTeste.pdb
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\bin\Debug\GprsCommandsTeste.exe.config
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\bin\Debug\GprsCommandsTeste.exe
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\bin\Debug\GprsCommandsTeste.pdb
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\bin\Debug\Newtonsoft.Json.dll
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\bin\Debug\Newtonsoft.Json.xml
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\GprsCommandsTeste.csproj.AssemblyReference.cache
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\GprsCommandsTeste.Form1.resources
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\GprsCommandsTeste.Properties.Resources.resources
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\GprsCommandsTeste.csproj.GenerateResource.cache
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\GprsCommandsTeste.csproj.CoreCompileInputs.cache
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\GprsCommandsTeste.csproj.CopyComplete
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\GprsCommandsTeste.exe
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\GprsCommandsTeste.pdb
+C:\Sourcesafe\GprsCommandsTeste\GprsCommandsTeste\obj\Debug\GprsCommandsTeste.csproj.SuggestedBindingRedirects.cache
